@@ -16,4 +16,4 @@ Sigam as intruções da chamada do vídeo. Acredito que por lá, ficará mais f�
 - [Download do NVDA](https://www.nvaccess.org/download/)
 - [Wikipedia](https://pt.wikipedia.org/)
 
-
+Desafio realizado. O arquivo foi modificado acrescentando as alterações para tornar a página mais acessivel.
